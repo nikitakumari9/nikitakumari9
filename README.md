@@ -1,16 +1,20 @@
-## Hi there 👋
+ Hi, I'm Nikita Kumari 👋
+ 
+Aspiring Data Analyst from Jangaon, Telangana, India. I turn raw datasets into actionable business insights using Python, SQL, interactive BI dashboards, and automated Excel reports.
 
-<!--
-**nikitakumari9/nikitakumari9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Skills
+- Programming & Analysis: Python (Pandas — Data Cleaning, Filtering, Sorting, Grouping, Aggregations)
+- BI & Visualization: Power BI, Tableau
+- Databases: MySQL (Joins, CTEs, Window Functions, Aggregations)
+- Spreadsheets: Advanced Excel (Pivot Tables, Power Query, XLOOKUP, Dashboards)
 
-Here are some ideas to get you started:
+Key Projects
+- E-commerce Project (Python – Pandas): Cleaned, filtered, sorted, grouped, and aggregated product datasets to uncover category trends and key metrics.
+- SuperMarket_Report Analysis Dashboard (Power BI): Interactive KPI dashboard tracking sales performance, product lines, and revenue trends.
+- Coffeestore Analysis (Tableau): Interactive dashboard analyzing regional sales, top-performing products, and profit contribution.
+- Superstore Data Analysis (MySQL): Structured SQL querying, joins, and aggregations to extract business performance insights.
+- N Store 2022 Sales Analysis (Excel): Automated sales reporting workbook using Pivot Tables, lookups, and visual KPI summaries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Connect With Me
+- Email: nikitakumari44113@gmail.com
+- LinkedIn: www.linkedin.com/in/nikitakumari9
